@@ -5,7 +5,7 @@
  WEBSITE LINK(Live Demo): https://yuvasri.s3-web.che01.cloud-object-storage.appdomain.cloud/
 
 
-::::::::::::::::::::::::::::::::::::::::Dashboard::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::Dashboard:::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![WhatsApp Image 2023-10-30 at 13 09 39_95f8ed46](https://github.com/yuvasri-baskaran/Solar-Power-Generation/assets/131947299/6c6a8ce3-79a9-4ea6-b655-032817ca6b38)
 ![WhatsApp Image 2023-10-30 at 13 09 38_fadb40be](https://github.com/yuvasri-baskaran/Solar-Power-Generation/assets/131947299/f1808315-6433-4daa-b6bd-899f76d49829)
